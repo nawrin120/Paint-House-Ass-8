@@ -1,0 +1,19 @@
+.cadidate-added {
+  border: rgb(21, 90, 54) 2px solid;
+  margin-bottom: 10px;
+}
+.icon-div {
+  margin: 10px 0;
+}
+.icon-div a {
+  margin-right: 20px;
+}
+.icon-div a i {
+  background-color: rgb(21, 90, 54);
+  border: 2px solid black;
+
+  color: white;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 10px;
+}

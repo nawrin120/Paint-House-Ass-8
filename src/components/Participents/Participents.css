@@ -1,0 +1,29 @@
+.participents-cart {
+  background-color: rgb(194, 223, 194);
+  border: 2px solid rgb(21, 90, 54);
+  border-radius: 20px;
+}
+.Paticipent-img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.Paticipent-img img {
+  width: 150px;
+  height: 160px;
+  border: 2px green solid;
+  border-radius: 20px;
+}
+.others-details {
+  display: flex;
+  justify-content: space-around;
+
+  line-height: 30px;
+  font-weight: 500;
+  color: black;
+}
+.button-parti {
+  background-color: rgb(21, 90, 54);
+  color: white;
+  padding: 5px 15px;
+  margin: 15px 0;
+}

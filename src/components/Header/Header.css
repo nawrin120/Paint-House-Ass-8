@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.header-one {
+  line-height: 50px;
+  color: rgb(243, 131, 10);
+}
+.heading {
+  background-image: linear-gradient(rgb(208, 190, 190), rgb(198, 232, 198));
+  padding: 20px;
+  margin-bottom: 25px;
+}
+.organize {
+  color: rgb(15, 94, 48);
+  font-size: large;
+  font-weight: 700;
+}
