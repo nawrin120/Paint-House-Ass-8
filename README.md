@@ -1,10 +1,9 @@
 # Paint House
 
-Live link:[Create React App](https://github.com/facebook/create-react-app).
+Live link:[https://modest-hodgkin-14e9a7.netlify.app/]
 
-## Available Script
+## In this project
 
-In this project
 -We can easily connect with participants from social media.
 
 -See all participants information from this project.
